@@ -1,6 +1,4 @@
-0x03. C - Debugging
-
-#TASKS.
+TASKS.
 
 0. Multiple mains
 mandatory
@@ -20,5 +18,3 @@ This program prints the largest of three integers.
 3. Leap year
 mandatory
 This program converts a date to the day of year and determines how many days are left in the year, taking leap year into consideration.
-
-
